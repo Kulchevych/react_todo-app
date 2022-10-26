@@ -1,9 +1,5 @@
-# React TypeScript Starter Pack
+# React todo app with api
+Stack: TypeScript, React, Bulma
+- [DEMO LINK](https://kulchevych.github.io/react_todo-app/)
 
-To use this template click `Use this template`
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
